@@ -9,8 +9,7 @@ This is a simple Laravel application for managing users, built for my ntern exam
 - Create, edit, delete users
 - Filter active users
 - PostgreSQL database integration
-- Admin-only access using custom middleware
-
+  
 ## Requirements
 
 - PHP 7.4 or higher
